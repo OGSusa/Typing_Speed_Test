@@ -10,6 +10,13 @@ This is a simple Typing Speed Test app made with Python and Tkinter. It checks h
 - **Simple Interface**: Easy to use design with Tkinter.
 - **No Copy-Paste**: The app blocks copy-paste to avoid cheating
 
+## Screenshots
+![Main Application Window](Screenshot1.jpg)
+*Main application window*
+
+![Watermarked Image](Screenshot2.jpg)
+*Screenshot of the results*
+
 ## Requirements
 Make sure you have Python installed (version 3.7 or higher) and install Tkinter if needed:
 
